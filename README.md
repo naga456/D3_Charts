@@ -15,6 +15,7 @@ https://github.com/naga456/D3_Charts
 JavaScript, D3.JS,Plotly, Visual Studio Code
 
 #### Screenshots:
+![sample1](https://user-images.githubusercontent.com/23746877/65316918-d0f04600-db68-11e9-989a-b6176a7ed7f3.jpg)
 
 #### Dynamic and real time data.
 
