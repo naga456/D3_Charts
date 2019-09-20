@@ -5,7 +5,7 @@ var jsonData = [];
 var samplesData = [];
 
 console.log("start")
-d3.json("../static/js/samples.json").then(data => {
+d3.json("./static/js/samples.json").then(data => {
     console.log('data',data);
     jsonData = data;
     samplesData = data.samples[0];
