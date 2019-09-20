@@ -18,5 +18,7 @@ JavaScript, D3.JS,Plotly, Visual Studio Code
 ![sample1](https://user-images.githubusercontent.com/23746877/65316918-d0f04600-db68-11e9-989a-b6176a7ed7f3.jpg)
 
 #### Dynamic and real time data.
+![sample2](https://user-images.githubusercontent.com/23746877/65316953-e49bac80-db68-11e9-936c-4fe0b6d340d9.jpg)
 
 #### Interactive charts.
+![sample3](https://user-images.githubusercontent.com/23746877/65316963-e7969d00-db68-11e9-9e6c-9a3fd45c30d3.jpg)
